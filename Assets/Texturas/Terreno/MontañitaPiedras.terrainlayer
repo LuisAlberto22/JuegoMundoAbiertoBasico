@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1953259897 &8574412962073106934
+TerrainLayer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: "Monta\xF1itaPiedras"
+  m_DiffuseTexture: {fileID: 2800000, guid: 0b4086b4c6585cb49b30959c704081ac, type: 3}
+  m_NormalMapTexture: {fileID: 2800000, guid: d8fdc58965b88a545a6295fb13fa1296, type: 3}
+  m_MaskMapTexture: {fileID: 2800000, guid: 00259724adb20f745a896b92ba5a5907, type: 3}
+  m_TileSize: {x: 20, y: 20}
+  m_TileOffset: {x: 0, y: 0}
+  m_Specular: {r: 0, g: 0, b: 0, a: 0}
+  m_Metallic: 0.69
+  m_Smoothness: 0.21
+  m_NormalScale: 1.5
+  m_DiffuseRemapMin: {x: 0, y: 0, z: 0, w: 0}
+  m_DiffuseRemapMax: {x: 1, y: 1, z: 1, w: 1}
+  m_MaskMapRemapMin: {x: 0, y: 0, z: 0, w: 0}
+  m_MaskMapRemapMax: {x: 1, y: 1, z: 1, w: 1}

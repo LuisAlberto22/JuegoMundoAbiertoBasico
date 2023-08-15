@@ -1,0 +1,343 @@
+fileFormatVersion: 2
+guid: a25cd694fba0339409516f32d2ace4ec
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: 1989289236423521904
+    second: Respirar
+  - first:
+      74: -3880581976594992817
+    second: Caminar
+  - first:
+      74: -1142068356105931426
+    second: Saltar
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Respirar
+      takeName: Default Take
+      internalID: 0
+      firstFrame: -1
+      lastFrame: 49
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Caminar
+      takeName: ArmatureAction
+      internalID: 0
+      firstFrame: 50
+      lastFrame: 99
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Saltar
+      takeName: ArmatureAction
+      internalID: 0
+      firstFrame: 100
+      lastFrame: 124
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: personajePrincipal(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: personaje
+      parentName: personajePrincipal(Clone)
+      position: {x: -0, y: -0.026441045, z: 0.23785524}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.19495505, y: 0.19495505, z: 0.19495505}
+    - name: Armature
+      parentName: personajePrincipal(Clone)
+      position: {x: 0, y: 0.77358884, z: -0.026441034}
+      rotation: {x: -0.9999995, y: -0, z: -0.0009611698, w: 0.000000042146848}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Espelda1
+      parentName: Armature
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.7071068, y: 0.7071068, z: -0, w: -0.000000029802322}
+      scale: {x: 1, y: 1, z: 0.99999976}
+    - name: Espalda2
+      parentName: Espelda1
+      position: {x: -0.3917892, y: 0.000000029579262, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1}
+    - name: Cabeza
+      parentName: Espalda2
+      position: {x: -0.29329813, y: 0.000000022143393, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1}
+    - name: ClaviculaIzq
+      parentName: Espalda2
+      position: {x: -0.29329813, y: 0.000000022143393, z: 0}
+      rotation: {x: -0.29509717, y: -0.6425868, z: 0.64258665, w: 0.29509708}
+      scale: {x: 0.9999998, y: 0.9999999, z: 1.0000002}
+    - name: Brazo1Iz
+      parentName: ClaviculaIzq
+      position: {x: -0.3535755, y: 0.000000026694202, z: 0.00000002980233}
+      rotation: {x: 0.0025909094, y: 0.34747976, z: 0.0069912216, w: 0.93765783}
+      scale: {x: 1.0000002, y: 0.99999976, z: 0.9999998}
+    - name: Brazo2I
+      parentName: Brazo1Iz
+      position: {x: -0.1863438, y: -0.000000005122274, z: 0.00000001740409}
+      rotation: {x: -0.00000006495974, y: -0, z: -0.0025376496, w: 0.9999968}
+      scale: {x: 1.0000001, y: 0.9999999, z: 1}
+    - name: ManoIz
+      parentName: Brazo2I
+      position: {x: -0.1412427, y: 0.000000007683411, z: 0.000000015366822}
+      rotation: {x: 0.00000008925551, y: 0.00000005979137, z: 0.0006150875, w: 0.9999999}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: ClaviculaDer
+      parentName: Espalda2
+      position: {x: -0.29329813, y: 0.000000022143393, z: 0}
+      rotation: {x: -0.41542056, y: 0.5721116, z: 0.57176876, w: -0.4161667}
+      scale: {x: 1.0000005, y: 1.0000001, z: 1}
+    - name: Brazo1Der
+      parentName: ClaviculaDer
+      position: {x: -0.3535755, y: 0.000000026694217, z: 0.00000002980233}
+      rotation: {x: -0.0015380377, y: 0.18921277, z: -0.0006359515, w: 0.98193467}
+      scale: {x: 1.0000002, y: 0.99999934, z: 0.9999997}
+    - name: Brazo2Der
+      parentName: Brazo1Der
+      position: {x: -0.18634382, y: 0.00000001268927, z: -0.000000038009603}
+      rotation: {x: 0.00000007520429, y: -0.000000059604638, z: 0.002537622, w: 0.99999684}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+    - name: ManoDer
+      parentName: Brazo2Der
+      position: {x: -0.14124271, y: 0.000000010244548, z: -0.000000028172508}
+      rotation: {x: -0.00000007144586, y: 0.0000001193447, z: -0.0006150505, w: 0.9999999}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000002}
+    - name: Espelda1_L
+      parentName: Armature
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.6739747, y: -0.21391127, z: -0.2139113, w: 0.6739748}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: PiernaIzq1
+      parentName: Espelda1_L
+      position: {x: -0.15720072, y: 0.000000011868323, z: 2e-15}
+      rotation: {x: -0.0000032186508, y: -0.45128033, z: -0.00000166893, w: 0.89238226}
+      scale: {x: 0.99999917, y: 1.0000001, z: 1.0000002}
+    - name: PiernaIzq2
+      parentName: PiernaIzq1
+      position: {x: -0.2871301, y: 0.000000025404006, z: -0.000000016735193}
+      rotation: {x: 0.00006133698, y: -0.000937134, z: -0.06504951, w: 0.99788165}
+      scale: {x: 1.0000001, y: 1, z: 1.0000002}
+    - name: PieIzq
+      parentName: PiernaIzq2
+      position: {x: -0.32005173, y: 0.000000013867975, z: -0.000000016734703}
+      rotation: {x: 0.4730522, y: 0.5167614, z: 0.52164865, w: 0.48689005}
+      scale: {x: 1.0000004, y: 1.0000006, z: 1.0000006}
+    - name: Espelda1_R
+      parentName: Armature
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.2139112, y: -0.67397475, z: 0.67397475, w: -0.21391135}
+      scale: {x: 1.0000004, y: 1.0000004, z: 1.0000001}
+    - name: Pierna1Der
+      parentName: Espelda1_R
+      position: {x: -0.15720072, y: 0.000000011868324, z: 2e-15}
+      rotation: {x: 0.000003144145, y: -0.45128036, z: 0.0000016987324, w: 0.89238226}
+      scale: {x: 0.99999905, y: 0.99999994, z: 1.0000002}
+    - name: Pierna2Der
+      parentName: Pierna1Der
+      position: {x: -0.2871301, y: 0.000000017953425, z: -0.000000016735195}
+      rotation: {x: -0.00006132281, y: -0.0009370445, z: 0.06504941, w: 0.99788165}
+      scale: {x: 1.0000001, y: 1, z: 1.0000004}
+    - name: PieDer
+      parentName: Pierna2Der
+      position: {x: -0.32005173, y: 0.000000027474016, z: -0.000000014875695}
+      rotation: {x: -0.47305205, y: 0.5167615, z: -0.52164876, w: 0.48689008}
+      scale: {x: 0.99999994, y: 1, z: 1.0000002}
+    - name: Pierna2Der_001
+      parentName: Armature
+      position: {x: 0.13975981, y: 0.0415503, z: -0.69502175}
+      rotation: {x: 0.5, y: 0.5, z: -0.5, w: 0.5}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CodoIzq
+      parentName: Armature
+      position: {x: -0.4545109, y: 0.17078929, z: 0.45467246}
+      rotation: {x: 0.50605905, y: 0.4938666, z: -0.4938666, w: 0.50605905}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000002}
+    - name: Cododer
+      parentName: Armature
+      position: {x: 0.4545109, y: 0.17078929, z: 0.45467246}
+      rotation: {x: 0.50605905, y: 0.4938666, z: -0.4938666, w: 0.50605905}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000002}
+    - name: Mu_ecaIzq
+      parentName: Armature
+      position: {x: -0.39574677, y: -0.0041678282, z: 0.10467255}
+      rotation: {x: 0.5, y: 0.5, z: -0.5, w: 0.5}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mu_ecaDer
+      parentName: Armature
+      position: {x: 0.39574677, y: -0.0041678282, z: 0.0746724}
+      rotation: {x: 0.5, y: 0.5, z: -0.5, w: 0.5}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PiernaIzq1_001
+      parentName: Armature
+      position: {x: -0.13409388, y: -0.24457279, z: -0.3777292}
+      rotation: {x: 0.50583965, y: -0.5058466, z: 0.49408427, w: 0.49409127}
+      scale: {x: 1.0000006, y: 1.0000002, z: 1.0003664}
+    - name: Pierna1Der_001
+      parentName: Armature
+      position: {x: 0.13409388, y: -0.24457279, z: -0.3777292}
+      rotation: {x: 0.50583965, y: -0.5058466, z: 0.49408427, w: 0.49409127}
+      scale: {x: 1.0000006, y: 1.0000002, z: 1.0003664}
+    - name: PiernaIzq2_001
+      parentName: Armature
+      position: {x: -0.13975981, y: 0.0415503, z: -0.69502175}
+      rotation: {x: 0.5, y: 0.5, z: -0.5, w: 0.5}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
